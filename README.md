@@ -1,7 +1,7 @@
 # Glassie-Christmas-Minecraft-Server-2024
 This is a repository for the Glassie server minecraft server 2024. It contains the server zip file and instructions on setup.
 # Installation Instructions
-## Curseforge
+### Curseforge
 Firstly, we need to install the curseforge launcher.
 
 Go to the Cursforge website [here](https://www.curseforge.com/).
@@ -20,6 +20,7 @@ Finally, if you have a curseforge account (not needed) login, otherwise continue
 
 Congrats, you have curseforge successfully installed!
 
+<<<<<<< HEAD
 ## Modpack
 
 We move onto installing the modpack. Firstly, let's make sure that curseforge has minecraft installed. Open curseforge, and click on minecraft to install it.
@@ -29,13 +30,14 @@ And use the default standard modding folder.
 
 Now that minecraft has been installed, we need to add the modpack.
 
-Download the modpack. Click on the modpack file at the top of this page.
+Click on the modpack file at the top of this page.
 ![Modpack file](images/click_zip.png)
 
 Then click download like so.
 ![Download file](images/download_modpack.png)
 
-Save it wherever you want. Next, the modpack needs to be imported into curseforge. So click on the import button inside the minecraft section of curseforge.
+
+Save it wherever you want. **DO NOT UNZIP IT**. Next, the modpack needs to be imported into curseforge. So click on the import button inside the minecraft section of curseforge.
 ![Import modpack](images/import_modpack.png)
 Then navigate to where you downloaded the zip file and click on it. The launcher will now download all the mods and configs for the pack.
 ![Curseforge play](images/curseforge_play.png)
@@ -62,6 +64,11 @@ Click done and you can now click play
 
 ## Minecraft
 
-The final stage of setup is the Minecraft setup. Once you have clicked play on curseforge, you may be presented with setting up minecraft. Click on the login to Microsoft button.
-![]
+The final stage of setup is the Minecraft setup. Once you have clicked play on curseforge, you may be presented with setting up minecraft. Click on the login to Microsoft button. Login with your Microsoft account. Et Voila, youcan now play the Glassie Christmas Modded Minecraft Server 2024.
 
+![Play Game](images/minecraft_play.png)
+=======
+### Modpack
+>>>>>>> parent of 2aa3132 (Added more to installation instructions)
+
+Now we move onto installing the modpack.
